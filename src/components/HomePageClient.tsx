@@ -355,20 +355,33 @@ export default function HomePageClient({ featuredExercises }: { featuredExercise
         </div>
       </section>
 
-      {/* 8. FEATURED ON BAR */}
-      <section className="border-y border-border bg-secondary/40 py-10">
-        <div className="mx-auto max-w-7xl px-5 sm:px-8">
-          <p className="eyebrow text-center">Featured on</p>
-          <div className="mt-6 flex flex-wrap items-center justify-center gap-x-8 gap-y-3">
-            {FEATURED_ON.map((item) => (
+      {/* 8. FEATURED ON MARQUEE */}
+      <section className="relative overflow-hidden border-y border-border bg-white py-14 sm:py-16">
+        <div className="mx-auto max-w-7xl px-5 sm:px-8 text-center mb-8">
+          <p className="eyebrow">Featured on</p>
+        </div>
+
+        {/* Gradient edge fades for seamless loop look */}
+        <div className="pointer-events-none absolute inset-y-0 left-0 z-10 w-24 bg-gradient-to-r from-white to-transparent sm:w-36" />
+        <div className="pointer-events-none absolute inset-y-0 right-0 z-10 w-24 bg-gradient-to-l from-white to-transparent sm:w-36" />
+
+        {/* Infinite scrolling marquee track */}
+        <div className="flex w-full overflow-hidden">
+          <div className="animate-marquee flex items-center gap-12 sm:gap-16">
+            {[...FEATURED_ON, ...FEATURED_ON].map((item, index) => (
               <a
-                key={item.name}
+                key={`${item.name}-${index}`}
                 href={item.url}
                 target="_blank"
                 rel="noreferrer"
-                className="font-heading text-xs font-bold uppercase tracking-[0.18em] text-muted-foreground transition-colors hover:text-primary"
+                className="group flex h-20 w-44 flex-none items-center justify-center p-2 transition-transform duration-300 hover:scale-110 sm:w-52"
+                title={item.name}
               >
-                {item.name}
+                <img
+                  src={item.logo}
+                  alt={item.name}
+                  className="max-h-14 w-auto max-w-[160px] object-contain opacity-75 grayscale transition-all duration-300 group-hover:opacity-100 group-hover:grayscale-0"
+                />
               </a>
             ))}
           </div>

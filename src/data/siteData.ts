@@ -191,15 +191,69 @@ export const PRICING_TIERS = [
 ];
 
 export const FEATURED_ON = [
-  { name: 'More Than Dancers', url: 'https://www.morethandancers.com/team/miss-katie-peyton-groven' },
-  { name: 'Erin Pride Podcast', url: 'https://erinpride.com/podcast/dbp56' },
-  { name: 'Doctors for Dancers', url: 'https://doctorsfordancers.com/' },
-  { name: 'Dance Studio 411', url: 'https://dancestudio411.com/at-home-strength-training-and-injury-prevention-for-dancers/' },
-  { name: 'Apollo Performance', url: 'https://www.apollaperformance.com/blogs/news/cross-training-safely-at-home-katie-groven' },
-  { name: 'Chelsea Pierotti', url: 'https://www.chelseapierotti.com/ep-10-strength-training/' },
-  { name: 'The LineUp', url: 'https://www.thelineup.com/' },
-  { name: 'Count Me In Podcast', url: 'https://www.countmeinpodcast.com/episodes/68-finding-your-strength-with-katie-groven' },
-  { name: 'Lark Spur Dance', url: 'https://www.larkspurdance.com/lark-life/a-chat-with-katie-groven-of-dancer-fitness-ldcps3e12/' }
+  {
+    name: 'More Than Dancers',
+    url: 'https://www.morethandancers.com/team/miss-katie-peyton-groven',
+    logo: '/assets/partner-morethandancers.png',
+    width: 140,
+    height: 60
+  },
+  {
+    name: 'The Dance Boss Podcast',
+    url: 'https://erinpride.com/podcast/dbp56',
+    logo: '/assets/partner-danceboss.png',
+    width: 180,
+    height: 58
+  },
+  {
+    name: 'Doctors for Dancers',
+    url: 'https://doctorsfordancers.com/',
+    logo: '/assets/partner-doctorsfordancers.png',
+    width: 180,
+    height: 50
+  },
+  {
+    name: 'Dance Studio 411',
+    url: 'https://dancestudio411.com/at-home-strength-training-and-injury-prevention-for-dancers/',
+    logo: '/assets/partner-dancestudio411.png',
+    width: 140,
+    height: 56
+  },
+  {
+    name: 'ApOLLA Performance',
+    url: 'https://www.apollaperformance.com/blogs/news/cross-training-safely-at-home-katie-groven',
+    logo: '/assets/partner-apolla.png',
+    width: 170,
+    height: 52
+  },
+  {
+    name: 'Chelsea Pierotti - The Passion for Dance Podcast',
+    url: 'https://www.chelseapierotti.com/ep-10-strength-training/',
+    logo: '/assets/partner-chelseapierotti.png',
+    width: 100,
+    height: 100
+  },
+  {
+    name: 'The Line Up',
+    url: 'https://www.thelineup.com/',
+    logo: '/assets/partner-thelineup.png',
+    width: 120,
+    height: 90
+  },
+  {
+    name: 'Count Me In Podcast',
+    url: 'https://www.countmeinpodcast.com/episodes/68-finding-your-strength-with-katie-groven',
+    logo: '/assets/partner-countmein.png',
+    width: 100,
+    height: 100
+  },
+  {
+    name: 'Larkspur Dance & Choreography',
+    url: 'https://www.larkspurdance.com/lark-life/a-chat-with-katie-groven-of-dancer-fitness-ldcps3e12/',
+    logo: '/assets/partner-larkspur.png',
+    width: 100,
+    height: 100
+  }
 ];
 
 export const TESTIMONIALS = [

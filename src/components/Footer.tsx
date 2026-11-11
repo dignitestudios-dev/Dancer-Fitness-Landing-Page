@@ -1,16 +1,9 @@
-"use client";
-
-import { useState, useEffect } from "react";
 import { Mail, Star } from "lucide-react";
 import { SITE_CONFIG, DF_LINKS, NAV_LINKS } from "@/data/siteData";
 import { YoutubeIcon } from "./YoutubeIcon";
 
 export default function Footer() {
-  const [year, setYear] = useState(2026);
-
-  useEffect(() => {
-    setYear(new Date().getFullYear());
-  }, []);
+  const year = 2026;
   return (
     <footer className="border-t border-border bg-secondary/50">
       <div className="mx-auto max-w-7xl px-5 py-16 sm:px-8">
