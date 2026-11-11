@@ -131,8 +131,6 @@ export default function AboutPage() {
             </Link>
             <a
               href={DF_LINKS.membership}
-              target="_blank"
-              rel="noopener noreferrer"
               className="inline-flex items-center border border-foreground/15 px-7 py-4 font-heading text-xs font-bold uppercase tracking-[0.2em] text-foreground transition-colors hover:border-primary hover:text-primary"
             >
               See memberships

@@ -19,24 +19,18 @@ export default function Header() {
           <div className="flex items-center gap-5">
             <a
               href={DF_LINKS.about}
-              target="_blank"
-              rel="noopener noreferrer"
               className="transition-colors hover:text-primary"
             >
               About
             </a>
             <a
               href={DF_LINKS.contact}
-              target="_blank"
-              rel="noopener noreferrer"
               className="transition-colors hover:text-primary"
             >
               Contact
             </a>
             <a
               href={DF_LINKS.login}
-              target="_blank"
-              rel="noopener noreferrer"
               className="text-primary hover:underline"
             >
               Member login
@@ -63,8 +57,6 @@ export default function Header() {
                   <a
                     key={link.label}
                     href={link.dfHref}
-                    target="_blank"
-                    rel="noopener noreferrer"
                     className="font-heading text-xs font-bold uppercase tracking-[0.18em] text-foreground transition-colors hover:text-primary"
                   >
                     {link.label}
@@ -86,8 +78,6 @@ export default function Header() {
           <div className="flex items-center gap-3">
             <a
               href={DF_LINKS.membership}
-              target="_blank"
-              rel="noopener noreferrer"
               className="hidden bg-primary px-5 py-3 font-heading text-xs font-bold uppercase tracking-[0.18em] text-primary-foreground transition-colors hover:bg-primary/90 sm:inline-flex"
             >
               Start membership
@@ -113,8 +103,6 @@ export default function Header() {
                   <a
                     key={link.label}
                     href={link.dfHref}
-                    target="_blank"
-                    rel="noopener noreferrer"
                     onClick={() => setMobileMenuOpen(false)}
                     className="border-b border-border py-4 font-heading text-sm font-bold uppercase tracking-[0.16em] text-foreground"
                   >
@@ -134,8 +122,6 @@ export default function Header() {
 
               <a
                 href={DF_LINKS.membership}
-                target="_blank"
-                rel="noopener noreferrer"
                 onClick={() => setMobileMenuOpen(false)}
                 className="mt-5 bg-primary px-5 py-4 text-center font-heading text-xs font-bold uppercase tracking-[0.18em] text-primary-foreground"
               >
@@ -145,8 +131,6 @@ export default function Header() {
               <div className="mt-5 flex items-center justify-between py-2 text-[11px] font-semibold uppercase tracking-[0.2em] text-muted-foreground">
                 <a
                   href={DF_LINKS.login}
-                  target="_blank"
-                  rel="noopener noreferrer"
                   onClick={() => setMobileMenuOpen(false)}
                   className="hover:text-primary"
                 >
@@ -154,8 +138,6 @@ export default function Header() {
                 </a>
                 <a
                   href={DF_LINKS.signUp}
-                  target="_blank"
-                  rel="noopener noreferrer"
                   onClick={() => setMobileMenuOpen(false)}
                   className="text-primary hover:underline"
                 >

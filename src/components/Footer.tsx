@@ -29,8 +29,6 @@ export default function Footer() {
               </a>
               <a
                 href={SITE_CONFIG.youtubeChannel}
-                target="_blank"
-                rel="noreferrer"
                 className="flex items-center gap-2 text-foreground transition-colors hover:text-primary"
               >
                 <YoutubeIcon className="h-4 w-4 text-primary" />
@@ -38,8 +36,6 @@ export default function Footer() {
               </a>
               <a
                 href={SITE_CONFIG.googleReviews}
-                target="_blank"
-                rel="noreferrer"
                 className="flex items-center gap-2 text-foreground transition-colors hover:text-primary"
               >
                 <Star className="h-4 w-4 text-primary" />
@@ -58,8 +54,6 @@ export default function Footer() {
                 <li key={link.label}>
                   <a
                     href={link.dfHref}
-                    target="_blank"
-                    rel="noopener noreferrer"
                     className="transition-colors hover:text-primary"
                   >
                     {link.label}
@@ -69,8 +63,6 @@ export default function Footer() {
               <li>
                 <a
                   href={DF_LINKS.onDemand}
-                  target="_blank"
-                  rel="noopener noreferrer"
                   className="transition-colors hover:text-primary"
                 >
                   On Demand
@@ -79,8 +71,6 @@ export default function Footer() {
               <li>
                 <a
                   href={DF_LINKS.shop}
-                  target="_blank"
-                  rel="noopener noreferrer"
                   className="transition-colors hover:text-primary"
                 >
                   Shop
@@ -98,8 +88,6 @@ export default function Footer() {
               <li>
                 <a
                   href={DF_LINKS.membership}
-                  target="_blank"
-                  rel="noopener noreferrer"
                   className="transition-colors hover:text-primary"
                 >
                   Membership options
@@ -108,8 +96,6 @@ export default function Footer() {
               <li>
                 <a
                   href={DF_LINKS.membership}
-                  target="_blank"
-                  rel="noopener noreferrer"
                   className="transition-colors hover:text-primary"
                 >
                   Join Dancer Fitness
@@ -118,8 +104,6 @@ export default function Footer() {
               <li>
                 <a
                   href={DF_LINKS.login}
-                  target="_blank"
-                  rel="noopener noreferrer"
                   className="transition-colors hover:text-primary"
                 >
                   Member login
@@ -128,8 +112,6 @@ export default function Footer() {
               <li>
                 <a
                   href={DF_LINKS.signUp}
-                  target="_blank"
-                  rel="noopener noreferrer"
                   className="transition-colors hover:text-primary"
                 >
                   Create your account

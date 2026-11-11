@@ -230,8 +230,6 @@ export default function HomePageClient({ featuredExercises }: { featuredExercise
             </div>
             <a
               href={DF_LINKS.membership}
-              target="_blank"
-              rel="noopener noreferrer"
               className="mt-10 inline-flex items-center gap-3 bg-primary px-7 py-4 font-heading text-xs font-bold uppercase tracking-[0.2em] text-primary-foreground transition-all hover:gap-5 hover:shadow-[0_0_35px_rgba(215,0,91,0.45)]"
             >
               Learn about memberships
@@ -304,8 +302,6 @@ export default function HomePageClient({ featuredExercises }: { featuredExercise
             </ul>
             <a
               href={DF_LINKS.membership}
-              target="_blank"
-              rel="noopener noreferrer"
               className="mt-10 inline-flex items-center gap-3 bg-primary px-7 py-4 font-heading text-xs font-bold uppercase tracking-[0.2em] text-primary-foreground transition-all hover:gap-5 hover:shadow-[0_0_35px_rgba(215,0,91,0.35)]"
             >
               Compare membership options
@@ -325,8 +321,6 @@ export default function HomePageClient({ featuredExercises }: { featuredExercise
                   <li key={tier.id}>
                     <a
                       href={getMembershipUrl(tier.id)}
-                      target="_blank"
-                      rel="noopener noreferrer"
                       className="group flex items-center justify-between gap-6 px-7 py-6 transition-colors hover:bg-secondary/30"
                     >
                       <div>
@@ -372,8 +366,6 @@ export default function HomePageClient({ featuredExercises }: { featuredExercise
               <a
                 key={`${item.name}-${index}`}
                 href={item.url}
-                target="_blank"
-                rel="noreferrer"
                 className="group flex h-20 w-44 flex-none items-center justify-center p-2 transition-transform duration-300 hover:scale-110 sm:w-52"
                 title={item.name}
               >
@@ -406,8 +398,6 @@ export default function HomePageClient({ featuredExercises }: { featuredExercise
             <div className="mt-9 flex flex-wrap gap-4">
               <a
                 href={DF_LINKS.trial}
-                target="_blank"
-                rel="noopener noreferrer"
                 className="inline-flex items-center gap-3 bg-primary px-7 py-4 font-heading text-xs font-bold uppercase tracking-[0.2em] text-primary-foreground transition-all hover:gap-5 hover:shadow-[0_0_35px_rgba(215,0,91,0.45)]"
               >
                 Try it for $1

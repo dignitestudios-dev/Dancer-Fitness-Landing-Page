@@ -89,8 +89,6 @@ export default function ContactPage() {
               </a>
               <a
                 href={SITE_CONFIG.youtubeChannel}
-                target="_blank"
-                rel="noreferrer"
                 className="flex items-center gap-3 text-foreground transition-colors hover:text-primary"
               >
                 <YoutubeIcon className="h-4 w-4 text-primary" />
@@ -98,8 +96,6 @@ export default function ContactPage() {
               </a>
               <a
                 href={SITE_CONFIG.googleReviews}
-                target="_blank"
-                rel="noreferrer"
                 className="flex items-center gap-3 text-foreground transition-colors hover:text-primary"
               >
                 <Star className="h-4 w-4 text-primary" />
@@ -116,8 +112,6 @@ export default function ContactPage() {
               </p>
               <a
                 href={DF_LINKS.login}
-                target="_blank"
-                rel="noopener noreferrer"
                 className="mt-6 inline-flex items-center gap-3 border border-foreground/15 px-6 py-3.5 font-heading text-xs font-bold uppercase tracking-[0.2em] text-foreground transition-colors hover:border-primary hover:text-primary"
               >
                 Member login

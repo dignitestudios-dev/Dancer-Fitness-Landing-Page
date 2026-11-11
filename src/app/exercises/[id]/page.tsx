@@ -122,8 +122,6 @@ export default async function ExerciseDetailPage({
               </p>
               <a
                 href={DF_LINKS.membership}
-                target="_blank"
-                rel="noopener noreferrer"
                 className="mt-6 inline-flex w-full items-center justify-center gap-3 bg-primary py-4 font-heading text-xs font-bold uppercase tracking-[0.2em] text-primary-foreground transition-all hover:bg-primary/90"
               >
                 Join for $1
