@@ -1,26 +1,99 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
+@layer base {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: 0 0% 100%;
+    --foreground: 336 14% 9%;
+    --card: 0 0% 100%;
+    --card-foreground: 336 14% 9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 336 14% 9%;
+    --primary: 335 100% 42%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 339 100% 97%;
+    --secondary-foreground: 336 45% 18%;
+    --muted: 336 24% 96%;
+    --muted-foreground: 336 9% 40%;
+    --accent: 335 100% 28%;
+    --accent-foreground: 0 0% 100%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 336 22% 91%;
+    --input: 336 22% 91%;
+    --ring: 335 100% 42%;
+    --radius: 0.25rem;
+    --ink: 336 14% 9%;
+    --ink-foreground: 0 0% 100%;
+    --blush: 339 100% 97%;
+    --steel: 336 8% 18%;
+  }
+
+  * {
+    border-color: hsl(var(--border));
+  }
+
+  body {
+    background-color: hsl(var(--background));
+    color: hsl(var(--foreground));
+    font-family: var(--font-body), ui-sans-serif, system-ui, sans-serif;
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+@theme {
+  --color-background: hsl(var(--background));
+  --color-foreground: hsl(var(--foreground));
+  --color-card: hsl(var(--card));
+  --color-card-foreground: hsl(var(--card-foreground));
+  --color-popover: hsl(var(--popover));
+  --color-popover-foreground: hsl(var(--popover-foreground));
+  --color-primary: hsl(var(--primary));
+  --color-primary-foreground: hsl(var(--primary-foreground));
+  --color-secondary: hsl(var(--secondary));
+  --color-secondary-foreground: hsl(var(--secondary-foreground));
+  --color-muted: hsl(var(--muted));
+  --color-muted-foreground: hsl(var(--muted-foreground));
+  --color-accent: hsl(var(--accent));
+  --color-accent-foreground: hsl(var(--accent-foreground));
+  --color-destructive: hsl(var(--destructive));
+  --color-destructive-foreground: hsl(var(--destructive-foreground));
+  --color-border: hsl(var(--border));
+  --color-input: hsl(var(--input));
+  --color-ring: hsl(var(--ring));
+  --color-ink: hsl(var(--ink));
+  --color-ink-foreground: hsl(var(--ink-foreground));
+  --color-blush: hsl(var(--blush));
+  --color-steel: hsl(var(--steel));
+
+  --font-heading: var(--font-heading), ui-sans-serif, system-ui, sans-serif;
+  --font-body: var(--font-body), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-display), ui-sans-serif, system-ui, sans-serif;
+}
+
+.eyebrow {
+  font-family: var(--font-heading), ui-sans-serif, system-ui, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.28em;
+  color: hsl(var(--primary));
+  font-size: 0.75rem;
+  font-weight: 700;
+  line-height: 1rem;
+}
+
+.momentum-line {
+  background-color: hsl(var(--border));
+  width: 100%;
+  height: 1px;
+  display: flex;
+  position: relative;
+}
+
+.momentum-line::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+  width: 4rem;
+  height: 1px;
+  background-color: hsl(var(--primary));
 }

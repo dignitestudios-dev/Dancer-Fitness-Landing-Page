@@ -1,0 +1,753 @@
+[
+  {
+    "title": "Full Body Burn Out",
+    "categories": [
+      "Power",
+      "Strength"
+    ],
+    "level": "Intermediate",
+    "exercise_count": 8,
+    "duration": "20 min",
+    "tags": [
+      "Hip Flexors",
+      "Jumps",
+      "Leaps",
+      "Full Body"
+    ],
+    "summary": "The finisher: eight exercises that leave your dancers feeling strong and accomplished.",
+    "description": "Use it at the end of practice when you want a challenge that still trains something useful. Big movements, short rest and a room full of dancers working hard together.",
+    "focus_areas": [
+      "Power endurance",
+      "Full body",
+      "Team spirit"
+    ],
+    "exercises": [
+      "Donkey Kick Burpee",
+      "Up-Down Tuck Jump",
+      "Mountain Climber – Slider",
+      "Half Russian",
+      "Plank Squat",
+      "Inch Worm",
+      "Hundreds",
+      "Plank Leg Lifts"
+    ],
+    "featured": false,
+    "id": "6adf9c1e7d5a3bbb8c0e3d9f",
+    "created_date": "2026-10-26T18:29:50.486000",
+    "updated_date": "2026-10-26T18:29:50.486000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Turning Discs",
+    "categories": [
+      "Power",
+      "Strength"
+    ],
+    "level": "Intermediate",
+    "exercise_count": 17,
+    "duration": "35 min",
+    "tags": [
+      "Abs",
+      "Core",
+      "Hamstrings",
+      "Hip Flexors",
+      "Jumps",
+      "Leaps",
+      "Lower Body",
+      "Quadriceps"
+    ],
+    "summary": "The complete turning and jumping conditioner for competition season.",
+    "description": "Seventeen exercises that build the trunk control, hip strength and ankle stability behind multiple turns and travelling jumps. The plan coaches run weekly through competition season.",
+    "focus_areas": [
+      "Turn control",
+      "Hip strength",
+      "Ankle stability",
+      "Jump endurance"
+    ],
+    "exercises": [
+      "Hip CARS",
+      "Mountain Climber – Slider",
+      "Side Laying Lateral Lift",
+      "Plank Leg Lifts",
+      "Hundreds",
+      "Weighted Single Leg Calf Raise",
+      "180 Degree Jump",
+      "Glute Bridge Battement"
+    ],
+    "featured": false,
+    "id": "6adf9c1e7d5a3bbb8c0e3d9e",
+    "created_date": "2026-10-26T18:29:50.486000",
+    "updated_date": "2026-10-26T18:29:50.486000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Kip Up",
+    "categories": [
+      "Power",
+      "Strength"
+    ],
+    "level": "Intermediate",
+    "exercise_count": 10,
+    "duration": "25 min",
+    "tags": [
+      "Abs",
+      "Acrobatics",
+      "Ankles",
+      "Core",
+      "Hip Flexors",
+      "Jumps",
+      "Lower Body"
+    ],
+    "summary": "Build the core, hip flexor and ankle strength behind a clean kip up.",
+    "description": "Kip ups come from a strong hollow body and explosive hip flexors, not from throwing your head back. Ten exercises that build the pieces, then put them together.",
+    "focus_areas": [
+      "Core and hip flexors",
+      "Explosive power",
+      "Ankle strength",
+      "Acro skills"
+    ],
+    "exercises": [
+      "Donkey Kick Burpee",
+      "180 Degree Jump",
+      "Up-Down Tuck Jump",
+      "Mountain Climber – Slider",
+      "Plank Leg Lifts",
+      "Hamstring Lift",
+      "Hundreds",
+      "Pike Plank",
+      "Push Back Plank",
+      "Plank Squat"
+    ],
+    "featured": false,
+    "id": "6adf9c1e7d5a3bbb8c0e3d9d",
+    "created_date": "2026-10-26T18:29:50.486000",
+    "updated_date": "2026-10-26T18:29:50.486000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Improve Technique",
+    "categories": [
+      "Balance",
+      "Endurance",
+      "Power",
+      "Strength"
+    ],
+    "level": "Beginner",
+    "exercise_count": 7,
+    "duration": "18 min",
+    "tags": [
+      "Abs",
+      "Back",
+      "Core",
+      "Full Body",
+      "Glutes",
+      "Hamstrings"
+    ],
+    "summary": "The starting point: strength that makes technique corrections actually stick.",
+    "description": "When a dancer cannot hold the correction, it is usually a strength gap rather than a listening problem. This plan builds the base so your cues land and stay.",
+    "focus_areas": [
+      "Base strength",
+      "Alignment",
+      "Endurance"
+    ],
+    "exercises": [
+      "Side Laying Lateral Lift",
+      "Hip CARS",
+      "Glute Bridge Battement",
+      "Plank Squat",
+      "Hundreds",
+      "Inch Worm",
+      "Boat Pose"
+    ],
+    "featured": true,
+    "id": "6adf9c1e7d5a3bbb8c0e3d9c",
+    "created_date": "2026-10-26T18:29:50.486000",
+    "updated_date": "2026-10-26T18:29:50.486000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Pointed Feet and Straighter Legs",
+    "categories": [
+      "Strength"
+    ],
+    "level": "Intermediate",
+    "exercise_count": 4,
+    "duration": "10 min",
+    "tags": [
+      "Ankles",
+      "Knee Strength and Length",
+      "Lower Body"
+    ],
+    "summary": "Four focused exercises for the details judges see from the front row.",
+    "description": "Pointed feet and straight legs come from calf and ankle strength plus the ability to fully extend the knee. Short, focused and easy to slot into any class.",
+    "focus_areas": [
+      "Ankle strength",
+      "Knee extension",
+      "Line quality"
+    ],
+    "exercises": [
+      "Weighted Single Leg Calf Raise",
+      "Hamstring Lift",
+      "Glute Bridge Battement",
+      "Side Laying Lateral Lift"
+    ],
+    "featured": false,
+    "id": "6adf9c1e7d5a3bbb8c0e3d9b",
+    "created_date": "2026-10-26T18:29:50.486000",
+    "updated_date": "2026-10-26T18:29:50.486000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Back Flexibility",
+    "categories": [
+      "Flexibility",
+      "On Demand Workout"
+    ],
+    "level": "Beginner",
+    "exercise_count": 8,
+    "duration": "20 min",
+    "tags": [
+      "Back",
+      "Flexibility"
+    ],
+    "summary": "A gentle on demand session for dancers working on back flexibility safely.",
+    "description": "Follow along as Katie takes the class through the positions that open the thoracic spine and shoulders without dumping into the lower back. Ideal for a recovery day or a home session.",
+    "focus_areas": [
+      "Thoracic mobility",
+      "Shoulder openness",
+      "Core support"
+    ],
+    "exercises": [
+      "Hip CARS",
+      "Boat Pose",
+      "Side Laying Lateral Lift",
+      "Glute Bridge Battement",
+      "Plank Leg Lifts",
+      "Push Back Plank",
+      "Pike Plank",
+      "Inch Worm"
+    ],
+    "featured": false,
+    "id": "6adf9c1e7d5a3bbb8c0e3d9a",
+    "created_date": "2026-10-26T18:29:50.486000",
+    "updated_date": "2026-10-26T18:29:50.486000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Better Scorpions",
+    "categories": [
+      "Power",
+      "Strength"
+    ],
+    "level": "Intermediate",
+    "exercise_count": 7,
+    "duration": "18 min",
+    "tags": [
+      "Back",
+      "Flexibility",
+      "Lower Body"
+    ],
+    "summary": "Strength and control for scorpions, needles and every shape that needs a healthy back line.",
+    "description": "A scorpion is a strength position, not just a flexible one. This plan builds the hamstring and glute strength that supports the shape and the back strength that keeps dancers safe while they find it.",
+    "focus_areas": [
+      "Hamstring strength",
+      "Back line",
+      "Hip extension"
+    ],
+    "exercises": [
+      "Hamstring Lift",
+      "Glute Bridge Battement",
+      "Tilt Jump Progression",
+      "Plank Leg Lifts",
+      "Side Laying Lateral Lift",
+      "Hip CARS",
+      "Boat Pose"
+    ],
+    "featured": false,
+    "id": "6adf9c1e7d5a3bbb8c0e3d99",
+    "created_date": "2026-10-26T18:29:50.486000",
+    "updated_date": "2026-10-26T18:29:50.486000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Stronger Side Leaps",
+    "categories": [
+      "Power",
+      "Strength"
+    ],
+    "level": "Intermediate",
+    "exercise_count": 10,
+    "duration": "22 min",
+    "tags": [
+      "Jumps",
+      "Leaps",
+      "Lower Body"
+    ],
+    "summary": "Built for the leaps that need height and a shape that holds at the top.",
+    "description": "Leaps are power plus control. This plan trains the glutes, hamstrings and calves that launch the jump, and the core that keeps the shape clean when you land.",
+    "focus_areas": [
+      "Jump power",
+      "Glutes and calves",
+      "Landing control"
+    ],
+    "exercises": [
+      "Tilt Jump Progression",
+      "180 Degree Jump",
+      "Weighted Single Leg Calf Raise",
+      "Hamstring Lift",
+      "Glute Bridge Battement",
+      "Plank Leg Lifts",
+      "Side Laying Lateral Lift",
+      "Up-Down Tuck Jump"
+    ],
+    "featured": true,
+    "id": "6adf9c1e7d5a3bbb8c0e3d98",
+    "created_date": "2026-10-26T18:29:50.486000",
+    "updated_date": "2026-10-26T18:29:50.486000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Warm Up",
+    "categories": [
+      "Flexibility",
+      "Strength",
+      "Warm Up"
+    ],
+    "level": "Intermediate",
+    "exercise_count": 19,
+    "duration": "35 min",
+    "tags": [
+      "Abs",
+      "Back",
+      "Core",
+      "Full Body",
+      "Glutes"
+    ],
+    "summary": "The long warm up for competition days and intensive rehearsals.",
+    "description": "A thorough, progressive warm up for the days that matter. Mobility first, then activation, then strength that leaves dancers warm and switched on rather than tired.",
+    "focus_areas": [
+      "Mobility",
+      "Full body activation",
+      "Injury prevention"
+    ],
+    "exercises": [
+      "Hip CARS",
+      "Inch Worm",
+      "Side Laying Lateral Lift",
+      "Glute Bridge Battement",
+      "Hundreds",
+      "Mountain Climber – Slider",
+      "Plank Squat",
+      "Push Back Plank"
+    ],
+    "featured": false,
+    "id": "6adf9c1e7d5a3bbb8c0e3d97",
+    "created_date": "2026-10-26T18:29:50.486000",
+    "updated_date": "2026-10-26T18:29:50.486000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Full Body Workout",
+    "categories": [
+      "Endurance",
+      "Power",
+      "Strength"
+    ],
+    "level": "Advanced",
+    "exercise_count": 9,
+    "duration": "30 min",
+    "tags": [
+      "Full Body",
+      "Endurance"
+    ],
+    "summary": "A conditioning class that builds the endurance dancers need to finish a routine as strong as they started.",
+    "description": "Competition routines fade in the final third. This session trains the gas tank: longer holds, short rest and full body movements so dancers can repeat quality movement when they are tired.",
+    "focus_areas": [
+      "Endurance",
+      "Full body strength",
+      "Power output",
+      "Mental grit"
+    ],
+    "exercises": [
+      "Donkey Kick Burpee",
+      "Up-Down Tuck Jump",
+      "180 Degree Jump",
+      "Mountain Climber – Slider",
+      "Plank Leg Lifts",
+      "Hamstring Lift",
+      "Hundreds",
+      "Pike Plank",
+      "Boat Pose"
+    ],
+    "featured": false,
+    "id": "6adf9c1e7d5a3bbb8c0e3d96",
+    "created_date": "2026-10-26T18:29:50.486000",
+    "updated_date": "2026-10-26T18:29:50.486000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Training Trifecta",
+    "categories": [
+      "Power",
+      "Strength"
+    ],
+    "level": "Intermediate",
+    "exercise_count": 7,
+    "duration": "18 min",
+    "tags": [
+      "Abs",
+      "Arms",
+      "Back",
+      "Core",
+      "Glutes"
+    ],
+    "summary": "Three movement patterns, seven exercises, one efficient session for glutes, hamstrings and core.",
+    "description": "When practice time is short, this is the plan to reach for. It hits the three patterns that carry most dance skills — hinge, push and resist — without a single wasted set.",
+    "focus_areas": [
+      "Glutes and hamstrings",
+      "Core",
+      "Hip power"
+    ],
+    "exercises": [
+      "Hamstring Lift",
+      "Glute Bridge Battement",
+      "180 Degree Jump",
+      "Plank Leg Lifts",
+      "Mountain Climber – Slider",
+      "Push Back Plank",
+      "One Leg V-Up"
+    ],
+    "featured": false,
+    "id": "6adf9c1e7d5a3bbb8c0e3d95",
+    "created_date": "2026-10-26T18:29:50.486000",
+    "updated_date": "2026-10-26T18:29:50.486000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "At Home Workout",
+    "categories": [
+      "Power",
+      "Strength"
+    ],
+    "level": "Beginner",
+    "exercise_count": 9,
+    "duration": "20 min",
+    "tags": [
+      "Full Body"
+    ],
+    "summary": "No equipment, no studio needed — a full body session dancers can do in a bedroom.",
+    "description": "Give this to dancers who want to train between classes but have no gym access. Everything is bodyweight, everything travels, and the whole session fits in twenty minutes.",
+    "focus_areas": [
+      "Full body",
+      "Bodyweight strength",
+      "Consistency"
+    ],
+    "exercises": [
+      "Plank Squat",
+      "Crunch and Punch",
+      "Half Russian",
+      "Inch Worm",
+      "Glute Bridge Battement",
+      "Side Laying Lateral Lift",
+      "Hip CARS",
+      "Boat Pose",
+      "Hundreds"
+    ],
+    "featured": false,
+    "id": "6adf9c1e7d5a3bbb8c0e3d94",
+    "created_date": "2026-10-26T18:29:50.486000",
+    "updated_date": "2026-10-26T18:29:50.486000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Upper Body Strength",
+    "categories": [
+      "Power",
+      "Strength"
+    ],
+    "level": "Advanced",
+    "exercise_count": 9,
+    "duration": "25 min",
+    "tags": [
+      "Arms",
+      "Back",
+      "Core",
+      "Upper Body"
+    ],
+    "summary": "For partners, lifts and acro work: a strong upper body that can support another dancer.",
+    "description": "Built for dancers who partner, lift or hold weight overhead. Expect shoulder stability work, anti-rotation core work and plenty of time in plank positions that mimic the shapes they hold on stage.",
+    "focus_areas": [
+      "Shoulder stability",
+      "Arms and back",
+      "Anti-rotation core",
+      "Lifts"
+    ],
+    "exercises": [
+      "On Demand Workout: Shoulders and Back",
+      "Plank Leg Lifts",
+      "Push Back Plank",
+      "Pike Plank",
+      "Side Plank Knee Tuck",
+      "Plank Squat",
+      "Boat Pose",
+      "Half Russian",
+      "Inch Worm"
+    ],
+    "featured": false,
+    "id": "6adf9c1e7d5a3bbb8c0e3d93",
+    "created_date": "2026-10-26T18:29:50.486000",
+    "updated_date": "2026-10-26T18:29:50.486000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Full Warmup",
+    "categories": [
+      "Power",
+      "Strength",
+      "Warm Up"
+    ],
+    "level": "Intermediate",
+    "exercise_count": 15,
+    "duration": "30 min",
+    "tags": [
+      "Abs",
+      "Core",
+      "Hamstrings",
+      "Hip Flexors",
+      "Knee Strength and Length"
+    ],
+    "summary": "A complete class warm up that covers mobility, activation and power in one block.",
+    "description": "Use this when you want the whole room ready to work: it opens the hips and spine, switches on the core and glutes, and finishes with movement that raises the heart rate before choreography starts.",
+    "focus_areas": [
+      "Mobility",
+      "Activation",
+      "Core and glutes",
+      "Jump preparation"
+    ],
+    "exercises": [
+      "Hip CARS",
+      "Inch Worm",
+      "Mountain Climber – Slider",
+      "Plank Squat",
+      "Side Laying Lateral Lift",
+      "Glute Bridge Battement",
+      "Hundreds",
+      "Hamstring Lift"
+    ],
+    "featured": true,
+    "id": "6adf9c1e7d5a3bbb8c0e3d92",
+    "created_date": "2026-10-26T18:29:50.486000",
+    "updated_date": "2026-10-26T18:29:50.486000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Higher Relevé",
+    "categories": [
+      "Balance",
+      "Strength"
+    ],
+    "level": "Intermediate",
+    "exercise_count": 6,
+    "duration": "15 min",
+    "tags": [
+      "Ankles",
+      "Core",
+      "Knee Strength and Length",
+      "Turns"
+    ],
+    "summary": "Stronger ankles and knees mean a higher relev and turns that hold their height.",
+    "description": "Relev height is not about wanting it more — it is about calf strength, ankle stability and a knee that stays long. Work this plan twice a week and watch the height stay on the last eight count.",
+    "focus_areas": [
+      "Calf strength",
+      "Ankle stability",
+      "Knee extension",
+      "Balance"
+    ],
+    "exercises": [
+      "Weighted Single Leg Calf Raise",
+      "180 Degree Jump",
+      "Plank Leg Lifts",
+      "Hundreds",
+      "Side Laying Lateral Lift",
+      "Hip CARS"
+    ],
+    "featured": true,
+    "id": "6adf9c1e7d5a3bbb8c0e3d91",
+    "created_date": "2026-10-26T18:29:50.486000",
+    "updated_date": "2026-10-26T18:29:50.486000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Shoulders Down",
+    "categories": [
+      "Strength"
+    ],
+    "level": "Beginner",
+    "exercise_count": 5,
+    "duration": "12 min",
+    "tags": [
+      "Back",
+      "Shoulders"
+    ],
+    "summary": "Teach dancers to stop gripping in the shoulders and start supporting from the back.",
+    "description": "Shoulders that creep up to the ears steal height and make everything look tense. These five exercises build the upper back so the shoulders can stay down and wide, from tendus to leaps.",
+    "focus_areas": [
+      "Upper back",
+      "Shoulder posture",
+      "Core support"
+    ],
+    "exercises": [
+      "On Demand Workout: Shoulders and Back",
+      "Push Back Plank",
+      "Plank Leg Lifts",
+      "Boat Pose",
+      "Inch Worm"
+    ],
+    "featured": false,
+    "id": "6adf9c1e7d5a3bbb8c0e3d90",
+    "created_date": "2026-10-26T18:29:50.486000",
+    "updated_date": "2026-10-26T18:29:50.486000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Partner Workout",
+    "categories": [
+      "Partners",
+      "Strength"
+    ],
+    "level": "Intermediate",
+    "exercise_count": 7,
+    "duration": "20 min",
+    "tags": [
+      "Abs",
+      "Ankles",
+      "Arms",
+      "Back",
+      "Core",
+      "Full Body",
+      "Glutes",
+      "Hamstrings",
+      "Hip Flexors",
+      "Quadriceps",
+      "Shoulders",
+      "Turns",
+      "Upper Body"
+    ],
+    "summary": "A full-body session dancers run in pairs — accountability built in and no equipment needed.",
+    "description": "Perfect for the days when you need everyone working at once with limited floor space. Pairs push and resist each other, which keeps intensity honest and turns conditioning into something the team looks forward to.",
+    "focus_areas": [
+      "Full body strength",
+      "Glutes and hamstrings",
+      "Upper body",
+      "Team energy"
+    ],
+    "exercises": [
+      "Partner Squat Hip Thrust",
+      "Partner Leg Press",
+      "Push Back Plank",
+      "Plank Squat",
+      "Half Russian",
+      "Inch Worm",
+      "Hamstring Lift"
+    ],
+    "featured": false,
+    "id": "6adf9c1e7d5a3bbb8c0e3d8f",
+    "created_date": "2026-10-26T18:29:50.486000",
+    "updated_date": "2026-10-26T18:29:50.486000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Front Walk Over",
+    "categories": [
+      "Strength"
+    ],
+    "level": "Intermediate",
+    "exercise_count": 8,
+    "duration": "25 min",
+    "tags": [
+      "Abs",
+      "Acrobatics",
+      "Back",
+      "Core"
+    ],
+    "summary": "Build the shoulder, core and hip strength that makes an acro skill feel controlled instead of thrown.",
+    "description": "Acro skills are strength skills. This plan strengthens the shoulders that hold the shape, the core that connects the legs to the trunk and the back line that keeps the arch honest, so dancers can work the skill instead of muscling through it.",
+    "focus_areas": [
+      "Shoulder strength",
+      "Core connection",
+      "Back line",
+      "Hip flexors"
+    ],
+    "exercises": [
+      "Plank Leg Lifts",
+      "Side Plank Knee Tuck",
+      "Boat Pose",
+      "Hamstring Lift",
+      "Pike Plank",
+      "Push Back Plank",
+      "One Leg V-Up",
+      "Glute Bridge Battement"
+    ],
+    "featured": false,
+    "id": "6adf9c1e7d5a3bbb8c0e3d8e",
+    "created_date": "2026-10-26T18:29:50.486000",
+    "updated_date": "2026-10-26T18:29:50.486000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Turn Warm Up",
+    "categories": [
+      "Balance",
+      "Strength"
+    ],
+    "level": "Intermediate",
+    "exercise_count": 5,
+    "duration": "10 min",
+    "tags": [
+      "Abs",
+      "Ankles",
+      "Back",
+      "Core",
+      "Turns"
+    ],
+    "summary": "A five-move primer that wakes up ankles, hips and core before you drill any turning work.",
+    "description": "Run this at the top of practice on a turning day. Each exercise is chosen to prepare the joints and muscles your dancers load in a pirouette or fouette — ankles, hip flexors, deep core — so the first turn of the day looks like the last one.",
+    "focus_areas": [
+      "Ankle stability",
+      "Core control",
+      "Hip mobility",
+      "Turn out"
+    ],
+    "exercises": [
+      "Hip CARS",
+      "Hundreds",
+      "Weighted Single Leg Calf Raise",
+      "Plank Leg Lifts",
+      "Side Laying Lateral Lift"
+    ],
+    "featured": true,
+    "id": "6adf9c1e7d5a3bbb8c0e3d8d",
+    "created_date": "2026-10-26T18:29:50.486000",
+    "updated_date": "2026-10-26T18:29:50.486000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  }
+]

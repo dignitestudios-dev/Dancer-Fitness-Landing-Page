@@ -1,0 +1,729 @@
+[
+  {
+    "title": "Donkey Kick Burpee",
+    "categories": [
+      "Power",
+      "Endurance"
+    ],
+    "level": "Advanced",
+    "duration": "0:45",
+    "focus": "Builds full body power and endurance in a single conditioning movement.",
+    "tags": [
+      "Full Body",
+      "Core",
+      "Shoulders",
+      "Endurance"
+    ],
+    "description": "A donkey kick into a burpee that spikes the heart rate while training the shoulders, core and legs. A finishing exercise for conditioning days that dancers actually enjoy.",
+    "cues": [
+      "Keep the plank tight as the kick comes through.",
+      "Jump rather than step, then land with soft knees.",
+      "Push the pace — this one is conditioning."
+    ],
+    "modifications": "Step the feet back instead of jumping, and take out the push up portion.",
+    "thumbnail": null,
+    "video_url": null,
+    "featured": false,
+    "id": "6adf9c3a7d5a3bbb8c0e3dfb",
+    "created_date": "2026-10-26T18:30:18.436000",
+    "updated_date": "2026-10-26T18:30:18.436000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Up-Down Tuck Jump",
+    "categories": [
+      "Power"
+    ],
+    "level": "Advanced",
+    "duration": "0:30",
+    "focus": "Builds explosive power and landing control for jumps and leaps.",
+    "tags": [
+      "Jumps and Leaps",
+      "Quadriceps",
+      "Lower Body",
+      "Power"
+    ],
+    "description": "A plyometric tuck jump variation that builds explosive power and the core control to keep it. Short bursts only — quality over quantity every time.",
+    "cues": [
+      "Jump the feet in and out of the plank shape.",
+      "Keep the core braced so the hips stay level.",
+      "Land softly and reset for the next tuck."
+    ],
+    "modifications": "Step the feet in and out instead of jumping, or reduce the number of reps per set.",
+    "thumbnail": null,
+    "video_url": null,
+    "featured": false,
+    "id": "6adf9c3a7d5a3bbb8c0e3dfa",
+    "created_date": "2026-10-26T18:30:18.436000",
+    "updated_date": "2026-10-26T18:30:18.436000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Inch Worm",
+    "categories": [
+      "Warm Up",
+      "Strength"
+    ],
+    "level": "Beginner",
+    "duration": "0:30",
+    "focus": "Opens shoulders and hamstrings while switching the core on.",
+    "tags": [
+      "Shoulders",
+      "Hamstrings",
+      "Full Body",
+      "Warm Up"
+    ],
+    "description": "A walking mobility drill that opens the shoulders and hamstrings and switches the core on at the same time. One of the best ways to start a class.",
+    "cues": [
+      "Walk the hands out until the body is long, then walk them back.",
+      "Keep the legs straight if you can, and the core braced.",
+      "Move calmly — this one should feel good."
+    ],
+    "modifications": "Bend the knees as you fold, or take the walk out slowly without the return.",
+    "thumbnail": null,
+    "video_url": null,
+    "featured": false,
+    "id": "6adf9c3a7d5a3bbb8c0e3df9",
+    "created_date": "2026-10-26T18:30:18.436000",
+    "updated_date": "2026-10-26T18:30:18.436000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Half Russian",
+    "categories": [
+      "Strength"
+    ],
+    "level": "Intermediate",
+    "duration": "0:45",
+    "focus": "Trains the obliques and hip flexors that keep turns centred.",
+    "tags": [
+      "Core",
+      "Obliques",
+      "Hip Flexors"
+    ],
+    "description": "A half get up and twist that trains the obliques and hip flexors together — the exact combination a dancer needs to keep turns centred.",
+    "cues": [
+      "Rotate from the ribcage, not the arms.",
+      "Keep both hips anchored to the floor.",
+      "Return the weight to the centre before switching sides."
+    ],
+    "modifications": "Keep the feet planted and reduce the twist, or use a lighter weight.",
+    "thumbnail": null,
+    "video_url": null,
+    "featured": false,
+    "id": "6adf9c3a7d5a3bbb8c0e3df8",
+    "created_date": "2026-10-26T18:30:18.436000",
+    "updated_date": "2026-10-26T18:30:18.436000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Pike Plank",
+    "categories": [
+      "Strength"
+    ],
+    "level": "Intermediate",
+    "duration": "0:35",
+    "focus": "Lengthens the hamstrings while challenging shoulders and core.",
+    "tags": [
+      "Core",
+      "Shoulders",
+      "Hamstrings"
+    ],
+    "description": "A plank and pike sequence that lengthens the hamstrings while challenging the shoulders and core. Excellent before or after a flexibility block.",
+    "cues": [
+      "Hips lift up and back, heels reaching toward the floor.",
+      "Keep the shoulders wide and the neck relaxed.",
+      "Hold the shape and breathe instead of bouncing."
+    ],
+    "modifications": "Bend the knees generously for the pike, or perform the whole thing from the knees.",
+    "thumbnail": null,
+    "video_url": null,
+    "featured": false,
+    "id": "6adf9c3a7d5a3bbb8c0e3df7",
+    "created_date": "2026-10-26T18:30:18.436000",
+    "updated_date": "2026-10-26T18:30:18.436000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "One Leg V-Up",
+    "categories": [
+      "Strength"
+    ],
+    "level": "Intermediate",
+    "duration": "0:40",
+    "focus": "Connects deep core strength to hip flexor control for extension.",
+    "tags": [
+      "Abs",
+      "Core",
+      "Hip Flexors"
+    ],
+    "description": "A single leg v-up that connects the deep core to the hip flexors. Builds the strength dancers need for a high, controlled extension and for holding it without gripping.",
+    "cues": [
+      "Keep the lower back flat against the mat.",
+      "Meet the hand to the foot, then lower with control.",
+      "Move one leg at a time to start."
+    ],
+    "modifications": "Reach toward the shin instead of the foot, or bring both legs in together.",
+    "thumbnail": null,
+    "video_url": null,
+    "featured": false,
+    "id": "6adf9c3a7d5a3bbb8c0e3df6",
+    "created_date": "2026-10-26T18:30:18.436000",
+    "updated_date": "2026-10-26T18:30:18.436000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Push Back Plank",
+    "categories": [
+      "Strength"
+    ],
+    "level": "Intermediate",
+    "duration": "0:35",
+    "focus": "Builds shoulder stability while the core holds a fixed position.",
+    "tags": [
+      "Core",
+      "Shoulders",
+      "Upper Body"
+    ],
+    "description": "A push back plank that builds shoulder stability and teaches the core to hold position while the arms move. Directly transferable to partner work and acro shapes.",
+    "cues": [
+      "Push the floor away so the shoulder blades stay wide.",
+      "Keep the hips still — no sagging or piking.",
+      "Reach the top of the push then return slowly."
+    ],
+    "modifications": "Perform from the knees, or reduce how far you push the body back.",
+    "thumbnail": null,
+    "video_url": null,
+    "featured": false,
+    "id": "6adf9c3a7d5a3bbb8c0e3df5",
+    "created_date": "2026-10-26T18:30:18.436000",
+    "updated_date": "2026-10-26T18:30:18.436000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Plank Squat",
+    "categories": [
+      "Strength"
+    ],
+    "level": "Beginner",
+    "duration": "0:40",
+    "focus": "Trains core and lower body together in one continuous movement.",
+    "tags": [
+      "Core",
+      "Quadriceps",
+      "Glutes",
+      "Full Body"
+    ],
+    "description": "A plank that turns into a squat and back again, training the core and legs in one continuous movement. Efficient conditioning for a busy class.",
+    "cues": [
+      "Keep the hips level and the back flat.",
+      "Step the feet out wide as you lower into the squat.",
+      "Drive up through the heels and finish tall."
+    ],
+    "modifications": "Walk the feet in and out instead of jumping them, and reduce the squat depth.",
+    "thumbnail": null,
+    "video_url": null,
+    "featured": false,
+    "id": "6adf9c3a7d5a3bbb8c0e3df4",
+    "created_date": "2026-10-26T18:30:18.436000",
+    "updated_date": "2026-10-26T18:30:18.436000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Partner Leg Press",
+    "categories": [
+      "Partners",
+      "Strength"
+    ],
+    "level": "Intermediate",
+    "duration": "0:50",
+    "focus": "Builds lower body strength with controlled partner resistance.",
+    "tags": [
+      "Hamstrings",
+      "Glutes",
+      "Lower Body",
+      "Quadriceps"
+    ],
+    "description": "The partner leg press puts real load through the hamstrings, glutes and quads without any equipment. A favourite for teams training in small spaces.",
+    "cues": [
+      "Keep the hips level and the core braced as the leg presses away.",
+      "Match your partner's tempo — slow and controlled beat fast and sloppy.",
+      "Press through the heel, not the toes."
+    ],
+    "modifications": "Reduce to a single leg at a time, or press against a wall instead of a partner.",
+    "thumbnail": null,
+    "video_url": null,
+    "featured": false,
+    "id": "6adf9c3a7d5a3bbb8c0e3df3",
+    "created_date": "2026-10-26T18:30:18.436000",
+    "updated_date": "2026-10-26T18:30:18.436000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Partner Squat Hip Thrust",
+    "categories": [
+      "Partners",
+      "Strength"
+    ],
+    "level": "Intermediate",
+    "duration": "0:50",
+    "focus": "Builds glute and hamstring strength with partner resistance.",
+    "tags": [
+      "Glutes",
+      "Hamstrings",
+      "Lower Body",
+      "Full Body"
+    ],
+    "description": "A partner hip thrust where your partner adds resistance. Trains the glutes and hamstrings hard while keeping the whole team engaged and accountable to each other.",
+    "cues": [
+      "Press through the whole foot and drive the hips up.",
+      "Resist your partner slowly on the way down — that is the work.",
+      "Keep the ribs down and the glutes switched on."
+    ],
+    "modifications": "Do it solo against a bench, or have the partner resist with much lighter pressure.",
+    "thumbnail": null,
+    "video_url": null,
+    "featured": false,
+    "id": "6adf9c3a7d5a3bbb8c0e3df2",
+    "created_date": "2026-10-26T18:30:18.436000",
+    "updated_date": "2026-10-26T18:30:18.436000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Boat Pose",
+    "categories": [
+      "Balance"
+    ],
+    "level": "Beginner",
+    "duration": "0:30",
+    "focus": "Builds deep core and posture control for balance and extension.",
+    "tags": [
+      "Core",
+      "Abs",
+      "Balance",
+      "Hip Flexors"
+    ],
+    "description": "A deceptively simple balance hold that builds the deep core, hip flexors and posture control behind a clean, lifted line. Used as a foundation exercise for extension and balance work.",
+    "cues": [
+      "Sit tall first — the lean comes after, not before.",
+      "Keep the chest open and the neck long.",
+      "Breathe normally the whole time you hold."
+    ],
+    "modifications": "Hold the backs of the thighs, or bend the knees and rest the shins on the mat.",
+    "thumbnail": null,
+    "video_url": null,
+    "featured": false,
+    "id": "6adf9c3a7d5a3bbb8c0e3df1",
+    "created_date": "2026-10-26T18:30:18.436000",
+    "updated_date": "2026-10-26T18:30:18.436000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Side Plank Knee Tuck",
+    "categories": [
+      "Strength"
+    ],
+    "level": "Intermediate",
+    "duration": "0:40",
+    "focus": "Builds lateral core strength for stacked ribs and hips.",
+    "tags": [
+      "Abs",
+      "Core",
+      "Obliques",
+      "Glutes"
+    ],
+    "description": "A demanding side plank variation for the obliques and glutes. Dancers use it to build the lateral strength that keeps ribs and hips stacked through a fouett or a tilt.",
+    "cues": [
+      "Stack the shoulder over the elbow and stay on the side of the foot.",
+      "Draw the knee in slowly, then extend without dropping the hip.",
+      "Keep the head in line with the spine."
+    ],
+    "modifications": "Drop the bottom knee to the floor and take the knee tuck slower.",
+    "thumbnail": null,
+    "video_url": null,
+    "featured": false,
+    "id": "6adf9c3a7d5a3bbb8c0e3df0",
+    "created_date": "2026-10-26T18:30:18.436000",
+    "updated_date": "2026-10-26T18:30:18.436000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Crunch and Punch",
+    "categories": [
+      "Strength"
+    ],
+    "level": "Beginner",
+    "duration": "0:45",
+    "focus": "Strengthens the obliques and teaches the core to resist rotation.",
+    "tags": [
+      "Abs",
+      "Core",
+      "Obliques"
+    ],
+    "description": "A core exercise that adds a punch so the obliques and deep abdominals have to resist rotation. Great for turns, where a wobbling trunk costs you the whole pirouette.",
+    "cues": [
+      "Reach the fist across the body, keeping the chin off the chest.",
+      "Exhale hard on the punch and brace the core.",
+      "Move with control — speed comes second."
+    ],
+    "modifications": "Keep the feet on the floor in a bent knee position if the lower back complains.",
+    "thumbnail": null,
+    "video_url": null,
+    "featured": false,
+    "id": "6adf9c3a7d5a3bbb8c0e3def",
+    "created_date": "2026-10-26T18:30:18.436000",
+    "updated_date": "2026-10-26T18:30:18.436000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "180 Degree Jump",
+    "categories": [
+      "Power"
+    ],
+    "level": "Advanced",
+    "duration": "0:20",
+    "focus": "Builds rotational power and air awareness for turning jumps.",
+    "tags": [
+      "Ankles",
+      "Glutes",
+      "Hamstrings",
+      "Hip Flexors",
+      "Jumps and Leaps",
+      "Quadriceps"
+    ],
+    "description": "The half turn jump that builds rotational power and air awareness. A staple for dancers working on turn jumps, switch leaps and any skill where the body changes direction mid air.",
+    "cues": [
+      "Take off and land in the same spot.",
+      "Turn the hips fully — the whole body travels, not just the legs.",
+      "Land softly, absorb, and reset before the next jump."
+    ],
+    "modifications": "Reduce to a quarter turn and focus on absorbing the landing quietly.",
+    "thumbnail": null,
+    "video_url": null,
+    "featured": false,
+    "id": "6adf9c3a7d5a3bbb8c0e3dee",
+    "created_date": "2026-10-26T18:30:18.436000",
+    "updated_date": "2026-10-26T18:30:18.436000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Plank Leg Lifts",
+    "categories": [
+      "Strength"
+    ],
+    "level": "Intermediate",
+    "duration": "0:40",
+    "focus": "Trains trunk stability while the legs extend and move independently.",
+    "tags": [
+      "Abs",
+      "Acrobatics",
+      "Arms",
+      "Back",
+      "Core",
+      "Glutes",
+      "Shoulders",
+      "Turns"
+    ],
+    "description": "A full body plank that teaches the glutes and core to work together while the legs move independently. Excellent for extension, jumps and anything that needs a stable trunk.",
+    "cues": [
+      "Hips square to the floor — do not let them rotate with the leg.",
+      "Lift and lower on a slow count, keeping the knee straight.",
+      "Squeeze the glute of the working leg before you lift."
+    ],
+    "modifications": "Drop to the knees, or lift the leg a smaller distance and add the pause at the top.",
+    "thumbnail": null,
+    "video_url": null,
+    "featured": false,
+    "id": "6adf9c3a7d5a3bbb8c0e3ded",
+    "created_date": "2026-10-26T18:30:18.436000",
+    "updated_date": "2026-10-26T18:30:18.436000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Hundreds",
+    "categories": [
+      "Strength"
+    ],
+    "level": "Beginner",
+    "duration": "1:00",
+    "focus": "Builds deep core endurance and breath control for turns.",
+    "tags": [
+      "Abs",
+      "Acrobatics",
+      "Core",
+      "Extension",
+      "Turns"
+    ],
+    "description": "A classic Pilates hundred that builds deep core endurance and breath control. Dancers feel it immediately in turns, because it trains the stability the trunk needs while the legs move.",
+    "cues": [
+      "Lift the head and shoulders just clear of the mat.",
+      "Pump the arms low and fast, hands never hitting the floor.",
+      "Keep the lower back pressed down — no arching."
+    ],
+    "modifications": "Keep the legs bent and the feet closer to the floor, or shorten the hold to five breaths.",
+    "thumbnail": null,
+    "video_url": null,
+    "featured": false,
+    "id": "6adf9c3a7d5a3bbb8c0e3dec",
+    "created_date": "2026-10-26T18:30:18.436000",
+    "updated_date": "2026-10-26T18:30:18.436000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Hamstring Lift",
+    "categories": [
+      "Strength"
+    ],
+    "level": "Intermediate",
+    "duration": "0:45",
+    "focus": "Strengthens the hamstrings and glutes behind leaps, kicks and arabesques.",
+    "tags": [
+      "Acrobatics",
+      "Glutes",
+      "Hamstrings",
+      "Jumps and Leaps",
+      "Kicks"
+    ],
+    "description": "Trains the hamstring and glute strength behind leaps, kicks and arabesques. One of the fastest ways to add height and control to a back line that currently drops.",
+    "cues": [
+      "Hinge from the hip, not from the waist.",
+      "Squeeze the glute as the leg lifts — do not throw it.",
+      "Keep the front of the hip long and open."
+    ],
+    "modifications": "Support the hands on a barre or a chair, and reduce the height of the lift.",
+    "thumbnail": null,
+    "video_url": null,
+    "featured": false,
+    "id": "6adf9c3a7d5a3bbb8c0e3deb",
+    "created_date": "2026-10-26T18:30:18.436000",
+    "updated_date": "2026-10-26T18:30:18.436000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Mountain Climber - Slider",
+    "categories": [
+      "Strength"
+    ],
+    "level": "Intermediate",
+    "duration": "0:40",
+    "focus": "Builds core stability and hip flexor endurance for turns and travel.",
+    "tags": [
+      "Abs",
+      "Hip Flexors",
+      "Turn Out"
+    ],
+    "description": "The slider version of a mountain climber, which makes the core work much harder. Builds the anti-rotation strength and hip flexor endurance that keeps a routine together in the last third.",
+    "cues": [
+      "Hips stay level — no rocking side to side.",
+      "Knee drives to the chest, then the foot slides all the way back.",
+      "Keep the shoulders stacked over the wrists."
+    ],
+    "modifications": "Take the sliders away and run the same movement on the floor, or slow the tempo right down.",
+    "thumbnail": null,
+    "video_url": null,
+    "featured": false,
+    "id": "6adf9c3a7d5a3bbb8c0e3dea",
+    "created_date": "2026-10-26T18:30:18.436000",
+    "updated_date": "2026-10-26T18:30:18.436000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Glute Bridge Battement",
+    "categories": [
+      "Flexibility",
+      "Strength"
+    ],
+    "level": "Intermediate",
+    "duration": "0:09",
+    "focus": "Trains hip extension strength behind a high kick or battement.",
+    "tags": [
+      "Extension",
+      "Glutes",
+      "Hamstrings",
+      "Kicks"
+    ],
+    "description": "A bridge that trains hip extension through a battement. Teaches the glute and hamstring strength behind a high kick, without asking the lower back to do the work.",
+    "cues": [
+      "Press through the heel and squeeze the glute at the top.",
+      "Keep the hips level — resist the urge to rotate open.",
+      "Lift only as high as you can hold the shape."
+    ],
+    "modifications": "Shorten the range to a partial lift, or place the foot closer to the glutes for support.",
+    "thumbnail": "https://i.vimeocdn.com/video/2209525980-7d834506728740147af1f3862b7a0a93ee7fba07739f71da0d9301c7543fb8a7-d?mw=1280&q=85",
+    "video_url": null,
+    "featured": false,
+    "id": "6adf9c3a7d5a3bbb8c0e3de9",
+    "created_date": "2026-10-26T18:30:18.436000",
+    "updated_date": "2026-10-26T18:30:18.436000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "On Demand Workout: Shoulders and Back",
+    "categories": [
+      "On Demand Workout",
+      "Strength"
+    ],
+    "level": "Intermediate",
+    "duration": "13:06",
+    "focus": "Builds the back and shoulder strength that keeps posture wide and arms supported.",
+    "tags": [
+      "Back",
+      "Shoulders",
+      "Upper Body"
+    ],
+    "description": "A full follow-along upper body session with Katie, training the back and shoulders that carry posture, partner work and overhead shapes. Run it on a recovery day or as a class conditioning block.",
+    "cues": [
+      "Keep the ribs stacked over the pelvis the whole way through.",
+      "Think long arms and a wide back rather than shrugged shoulders.",
+      "Follow the tempo — do not rush the lowering phase."
+    ],
+    "modifications": "Reduce the range or drop to the knees for any pushing position if the shoulders are tired.",
+    "thumbnail": "https://i.vimeocdn.com/video/2211694034-50c4bab50c303611e90616b288cda638ffb91bc56789488ebb67cbaf2bc26942-d?mw=1280&q=85",
+    "video_url": null,
+    "featured": false,
+    "id": "6adf9c3a7d5a3bbb8c0e3de8",
+    "created_date": "2026-10-26T18:30:18.436000",
+    "updated_date": "2026-10-26T18:30:18.436000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Hip CARS",
+    "categories": [
+      "Flexibility",
+      "Warm Up"
+    ],
+    "level": "Beginner",
+    "duration": "0:11",
+    "focus": "Opens the hip joint and prepares it for extension, turn out and leaps.",
+    "tags": [
+      "Hip Flexors"
+    ],
+    "description": "Controlled articular rotations for the hip. Two minutes of this before class changes how a dancer finds extension, turn out and a clean arabesque line.",
+    "cues": [
+      "Move slowly and stay in control — this is not a stretch you push.",
+      "Lead the circle with the knee, then finish it with the hip.",
+      "Keep the pelvis still while the hip does the work."
+    ],
+    "modifications": "Do it standing with hand support, or reduce the size of the circle if the lower back starts to move.",
+    "thumbnail": "https://i.vimeocdn.com/video/2209525402-b869270f881fabc6d33aecccd44d6fd8f354477d94eb601da326b07259da3edb-d?mw=1280&q=85",
+    "video_url": null,
+    "featured": true,
+    "id": "6adf9c3a7d5a3bbb8c0e3de7",
+    "created_date": "2026-10-26T18:30:18.436000",
+    "updated_date": "2026-10-26T18:30:18.436000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Weighted Single Leg Calf Raise",
+    "categories": [
+      "Strength",
+      "Mini Dancers"
+    ],
+    "level": "Intermediate",
+    "duration": "0:05",
+    "focus": "Builds calf and ankle strength for higher relev and steadier landings.",
+    "tags": [
+      "Ankles",
+      "Knee Strength and Length",
+      "Lower Body",
+      "Turns"
+    ],
+    "description": "Loaded calf work that translates straight into a higher relev and steadier landings. Slow, controlled and easy to scale with or without weight.",
+    "cues": [
+      "Rise as high as you can, then lower slowly for three counts.",
+      "Keep the ankle stacked over the second toe — no rolling out.",
+      "Hold the top for one beat to build the stabilisers."
+    ],
+    "modifications": "Hold a wall or barre for balance, or take the weight away and use both legs to start.",
+    "thumbnail": "https://i.vimeocdn.com/video/2151421963-21c197e26f53f138dd605494e7adade815e8958db0645bcf1db1d972d5542e2f-d?mw=1280&q=85",
+    "video_url": null,
+    "featured": true,
+    "id": "6adf9c3a7d5a3bbb8c0e3de6",
+    "created_date": "2026-10-26T18:30:18.436000",
+    "updated_date": "2026-10-26T18:30:18.436000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Side Laying Lateral Lift",
+    "categories": [
+      "Strength",
+      "Warm Up"
+    ],
+    "level": "Beginner",
+    "duration": "0:08",
+    "focus": "Activates the glutes and deep hip rotators that hold turn out.",
+    "tags": [
+      "Core",
+      "Extension",
+      "Glutes",
+      "Turn Out"
+    ],
+    "description": "A small, precise movement that wakes up the glutes and the deep hip rotators that hold your turn out. The simplest way to teach a dancer where turn out actually comes from.",
+    "cues": [
+      "Stack the hips and shoulders before you lift the leg.",
+      "Lead with the heel, not the toes, and keep the hips square to the front.",
+      "Stop the lift at hip height — no rolling back."
+    ],
+    "modifications": "Bend the bottom leg for support and reduce the range of the lift if the hip starts to roll.",
+    "thumbnail": "https://i.vimeocdn.com/video/2172631152-4280d638e94620e3ea69ebc5d3c7a04dcf784ed7be6c72538ba43fec1bda4b5d-d?mw=1280&q=85",
+    "video_url": null,
+    "featured": true,
+    "id": "6adf9c3a7d5a3bbb8c0e3de5",
+    "created_date": "2026-10-26T18:30:18.436000",
+    "updated_date": "2026-10-26T18:30:18.436000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  },
+  {
+    "title": "Tilt Jump Progression",
+    "categories": [
+      "Power"
+    ],
+    "level": "Intermediate",
+    "duration": "0:10",
+    "focus": "Builds the tilt shape in the air so jumps land cleanly instead of swinging.",
+    "tags": [
+      "Glutes",
+      "Hamstrings",
+      "Hip Flexors",
+      "Jumps and Leaps"
+    ],
+    "description": "A progression that builds the tilt jump from the ground up — where the legs come from, how the hips lead the shape, and how to keep the landing quiet. Built for dancers who can jump but lose the line at the top.",
+    "cues": [
+      "Push the floor away and lift the hips before the legs travel.",
+      "Keep the ribs down so the tilt comes from the hip, not the lower back.",
+      "Land through the whole foot, soft knee, and finish tall."
+    ],
+    "modifications": "Start with a smaller tilt and a slower tempo, then add height once the shape holds at the top.",
+    "thumbnail": "https://i.vimeocdn.com/video/2175395140-e44cfe52a31bbf4982ab98cac40781b899e70e047de0cea3e17c347541b56d93-d?mw=1280&q=85",
+    "video_url": null,
+    "featured": true,
+    "id": "6adf9c3a7d5a3bbb8c0e3de4",
+    "created_date": "2026-10-26T18:30:18.436000",
+    "updated_date": "2026-10-26T18:30:18.436000",
+    "created_by_id": "6adf9a03453626520f75d491",
+    "is_sample": false
+  }
+]
