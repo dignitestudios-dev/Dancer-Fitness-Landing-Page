@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { ArrowRight } from "lucide-react";
 import {
   IMAGES,
@@ -32,9 +33,12 @@ export default function AboutPage() {
 
           <FadeIn delay={0.12}>
             <div className="overflow-hidden border border-white/10">
-              <img
+              <Image
                 src={IMAGES.founder}
                 alt="Katie Groven, founder of Dancer Fitness"
+                width={600}
+                height={540}
+                priority
                 className="h-[420px] w-full object-cover sm:h-[540px]"
               />
             </div>

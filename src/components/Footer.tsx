@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { Mail, Star } from "lucide-react";
 import { SITE_CONFIG, DF_LINKS, NAV_LINKS } from "@/data/siteData";
 import { YoutubeIcon } from "./YoutubeIcon";
@@ -10,9 +11,11 @@ export default function Footer() {
         <div className="grid gap-12 lg:grid-cols-[1.5fr_1fr_1fr]">
           {/* Brand info */}
           <div>
-            <img
+            <Image
               src={SITE_CONFIG.logo}
-              alt="Dancer Fitness"
+              alt="Dancer Fitness Logo"
+              width={193}
+              height={60}
               className="h-11 w-auto object-contain"
             />
             <p className="mt-6 max-w-sm text-sm leading-relaxed text-muted-foreground">

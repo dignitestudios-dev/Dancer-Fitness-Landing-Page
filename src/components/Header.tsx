@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { useState } from "react";
 import { Menu, X } from "lucide-react";
 import { SITE_CONFIG, DF_LINKS, NAV_LINKS } from "@/data/siteData";
@@ -42,11 +43,14 @@ export default function Header() {
       {/* Main navigation bar */}
       <div className="border-b border-border bg-background/95 backdrop-blur">
         <div className="mx-auto flex h-20 max-w-7xl items-center justify-between gap-6 px-5 sm:px-8">
-          <Link href="/" className="flex items-center">
-            <img
+          <Link href="/" className="flex items-center" aria-label="Dancer Fitness Home">
+            <Image
               src={SITE_CONFIG.logo}
-              alt="Dancer Fitness"
+              alt="Dancer Fitness Logo"
+              width={193}
+              height={60}
               className="h-10 w-auto sm:h-11 object-contain"
+              priority
             />
           </Link>
 

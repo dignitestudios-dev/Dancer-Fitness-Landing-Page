@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { motion } from "framer-motion";
 import { ArrowRight, Check } from "lucide-react";
 import {
@@ -101,9 +102,12 @@ export default function HomePageClient({ featuredExercises }: { featuredExercise
               transition={{ duration: 0.9, delay: 0.1, ease: [0.16, 1, 0.3, 1] }}
               className="relative ml-auto w-[80%] overflow-hidden border border-white/10"
             >
-              <img
+              <Image
                 src={IMAGES.heroPortrait}
-                alt="Dancer training strength and extension"
+                alt="Dancer training strength and extension with Katie Groven"
+                width={600}
+                height={520}
+                priority
                 className="h-[400px] w-full object-cover sm:h-[520px]"
               />
             </motion.div>
@@ -113,9 +117,12 @@ export default function HomePageClient({ featuredExercises }: { featuredExercise
               transition={{ duration: 0.9, delay: 0.3, ease: [0.16, 1, 0.3, 1] }}
               className="absolute -bottom-12 left-0 w-[58%] overflow-hidden border-4 border-ink shadow-2xl"
             >
-              <img
+              <Image
                 src={IMAGES.studio}
                 alt="Dancers conditioning together in the studio"
+                width={360}
+                height={220}
+                priority
                 className="h-[180px] w-full object-cover sm:h-[220px]"
               />
             </motion.div>
@@ -179,9 +186,11 @@ export default function HomePageClient({ featuredExercises }: { featuredExercise
 
           <FadeIn delay={0.15} className="relative">
             <div className="overflow-hidden">
-              <img
+              <Image
                 src={IMAGES.categoryImages.Power}
                 alt="Dancer mid-leap demonstrating power"
+                width={600}
+                height={520}
                 className="h-[380px] w-full object-cover sm:h-[520px]"
               />
             </div>
@@ -200,9 +209,11 @@ export default function HomePageClient({ featuredExercises }: { featuredExercise
         <div className="mx-auto grid max-w-7xl items-center gap-14 px-5 sm:px-8 lg:grid-cols-2">
           <FadeIn className="order-2 lg:order-1">
             <div className="overflow-hidden border border-white/10">
-              <img
+              <Image
                 src={IMAGES.coaches}
                 alt="Coach leading a group of dancers through conditioning"
+                width={600}
+                height={500}
                 className="h-[380px] w-full object-cover sm:h-[500px]"
               />
             </div>
@@ -369,9 +380,11 @@ export default function HomePageClient({ featuredExercises }: { featuredExercise
                 className="group flex h-20 w-44 flex-none items-center justify-center p-2 transition-transform duration-300 hover:scale-110 sm:w-52"
                 title={item.name}
               >
-                <img
+                <Image
                   src={item.logo}
                   alt={item.name}
+                  width={item.width || 140}
+                  height={item.height || 60}
                   className="max-h-14 w-auto max-w-[160px] object-contain opacity-75 grayscale transition-all duration-300 group-hover:opacity-100 group-hover:grayscale-0"
                 />
               </a>

@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { notFound } from "next/navigation";
 import { ArrowLeft, Clock, ArrowRight, Check } from "lucide-react";
 import exercisesData from "@/data/exercises.json";
@@ -67,9 +68,12 @@ export default async function ExerciseDetailPage({
         <div className="mx-auto grid max-w-7xl gap-12 px-5 sm:px-8 lg:grid-cols-[1.1fr_0.9fr]">
           <div>
             <div className="overflow-hidden border border-border bg-ink">
-              <img
+              <Image
                 src={imageSrc}
                 alt={exercise.title}
+                width={800}
+                height={450}
+                priority
                 className="aspect-video w-full object-cover"
               />
             </div>
