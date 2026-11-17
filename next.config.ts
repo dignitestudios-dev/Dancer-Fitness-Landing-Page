@@ -12,6 +12,10 @@ const nextConfig: NextConfig = {
         protocol: "https",
         hostname: "dancer-fitness.com",
       },
+      {
+        protocol: "https",
+        hostname: "app.dancer-fitness.com",
+      },
     ],
   },
   experimental: {

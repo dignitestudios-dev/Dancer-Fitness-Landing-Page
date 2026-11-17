@@ -1,6 +1,11 @@
+import type { Metadata } from "next";
 import HomePageClient from "@/components/HomePageClient";
 import exercisesData from "@/data/exercises.json";
 import { Exercise } from "@/data/siteData";
+
+export const metadata: Metadata = {
+  alternates: { canonical: "/" }
+};
 
 export default function Home() {
   const exercises = exercisesData as Exercise[];

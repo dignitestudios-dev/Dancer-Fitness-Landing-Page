@@ -1,9 +1,25 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArrowLeft, Clock, Layers, ArrowRight } from "lucide-react";
 import plansData from "@/data/training_plans.json";
 import { TrainingPlan, DF_LINKS } from "@/data/siteData";
 import TrainingPlanCard from "@/components/TrainingPlanCard";
+
+export async function generateMetadata({
+  params
+}: {
+  params: Promise<{ id: string }>;
+}): Promise<Metadata> {
+  const { id } = await params;
+  const plan = (plansData as TrainingPlan[]).find((p) => p.id === id);
+  if (!plan) return {};
+  return {
+    title: { absolute: `${plan.title} | Dancer Fitness` },
+    description: (plan.description || plan.summary || "").slice(0, 160),
+    alternates: { canonical: `/training-plans/${id}` }
+  };
+}
 
 export function generateStaticParams() {
   const allPlans = plansData as TrainingPlan[];

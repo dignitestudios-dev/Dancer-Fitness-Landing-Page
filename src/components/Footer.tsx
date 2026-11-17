@@ -47,7 +47,7 @@ export default function Footer() {
             </div>
           </div>
 
-          {/* Explore links (redirects to dancer-fitness.com) */}
+          {/* Explore links (links to app.dancer-fitness.com) */}
           <div>
             <p className="font-heading text-xs font-bold uppercase tracking-[0.22em] text-foreground">
               Explore
@@ -82,7 +82,7 @@ export default function Footer() {
             </ul>
           </div>
 
-          {/* Get started links (redirects to dancer-fitness.com) */}
+          {/* Get started links (links to app.dancer-fitness.com) */}
           <div>
             <p className="font-heading text-xs font-bold uppercase tracking-[0.22em] text-foreground">
               Get started

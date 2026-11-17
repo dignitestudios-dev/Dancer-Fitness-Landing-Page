@@ -59,23 +59,23 @@ export const IMAGES = {
   } as Record<string, string>
 };
 
-// Target links from dancer-fitness.com
+// Links to the main web app (app.dancer-fitness.com); this landing site lives on dancer-fitness.com
 export const DF_LINKS = {
-  home: 'https://dancer-fitness.com/',
-  exercises: 'https://dancer-fitness.com/exercises/',
-  trainingPlans: 'https://dancer-fitness.com/training-plans/',
-  membership: 'https://dancer-fitness.com/membership/',
-  onDemand: 'https://dancer-fitness.com/watch-on-demand/',
-  shop: 'https://dancer-fitness.com/shop/',
-  signUp: 'https://dancer-fitness.com/sign-up/',
-  login: 'https://dancer-fitness.com/login/',
-  cart: 'https://dancer-fitness.com/cart/',
-  about: 'https://dancer-fitness.com/about/',
-  contact: 'https://dancer-fitness.com/contact-us/',
-  trial: 'https://dancer-fitness.com/register/monthly/',
-  monthly: 'https://dancer-fitness.com/register/monthly-w-out-trial/',
-  yearly: 'https://dancer-fitness.com/register/yearly/',
-  teamPro: 'https://dancer-fitness.com/register/team-pro/'
+  home: 'https://app.dancer-fitness.com/',
+  exercises: 'https://app.dancer-fitness.com/exercises/',
+  trainingPlans: 'https://app.dancer-fitness.com/training-plans/',
+  membership: 'https://app.dancer-fitness.com/membership/',
+  onDemand: 'https://app.dancer-fitness.com/watch-on-demand/',
+  shop: 'https://app.dancer-fitness.com/shop/',
+  signUp: 'https://app.dancer-fitness.com/sign-up/',
+  login: 'https://app.dancer-fitness.com/login/',
+  cart: 'https://app.dancer-fitness.com/cart/',
+  about: 'https://app.dancer-fitness.com/about/',
+  contact: 'https://app.dancer-fitness.com/contact-us/',
+  trial: 'https://app.dancer-fitness.com/register/monthly/',
+  monthly: 'https://app.dancer-fitness.com/register/monthly-w-out-trial/',
+  yearly: 'https://app.dancer-fitness.com/register/yearly/',
+  teamPro: 'https://app.dancer-fitness.com/register/team-pro/'
 };
 
 export function getMembershipUrl(planId: string) {

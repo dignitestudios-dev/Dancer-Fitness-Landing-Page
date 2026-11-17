@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import Image from "next/image";
 import { notFound } from "next/navigation";
@@ -5,6 +6,21 @@ import { ArrowLeft, Clock, ArrowRight, Check } from "lucide-react";
 import exercisesData from "@/data/exercises.json";
 import { Exercise, IMAGES, DF_LINKS } from "@/data/siteData";
 import ExerciseCard from "@/components/ExerciseCard";
+
+export async function generateMetadata({
+  params
+}: {
+  params: Promise<{ id: string }>;
+}): Promise<Metadata> {
+  const { id } = await params;
+  const exercise = (exercisesData as Exercise[]).find((e) => e.id === id);
+  if (!exercise) return {};
+  return {
+    title: { absolute: `${exercise.title} | Dancer Fitness` },
+    description: (exercise.description || exercise.focus || "").slice(0, 160),
+    alternates: { canonical: `/exercises/${id}` }
+  };
+}
 
 export function generateStaticParams() {
   const allExercises = exercisesData as Exercise[];

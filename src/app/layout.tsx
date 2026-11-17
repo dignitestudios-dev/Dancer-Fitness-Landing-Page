@@ -44,9 +44,7 @@ export const metadata: Metadata = {
     address: false,
     telephone: false
   },
-  alternates: {
-    canonical: "/"
-  },
+  // Canonical URLs are set per page (a global "/" would mark every page as a duplicate of the home page).
   openGraph: {
     title: "Dancer Fitness — Safe, Practical Exercises and Training Plans for Dancers",
     description: "Handpicked exercises and skill-specific training plans designed exclusively for dancers and the coaches who train them.",
@@ -127,7 +125,7 @@ export default function RootLayout({
               "@type": "Organization",
               name: "Dancer Fitness",
               url: "https://dancer-fitness.com",
-              logo: "https://dancer-fitness.com/wp-content/uploads/2021/09/df-logo.png",
+              logo: "https://dancer-fitness.com/assets/logo.png",
               founder: {
                 "@type": "Person",
                 name: "Katie Groven",

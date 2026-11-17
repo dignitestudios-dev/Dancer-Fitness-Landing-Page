@@ -20,7 +20,7 @@ export default function NewsletterForm() {
 
         <div className="flex flex-col items-start gap-4 sm:flex-row sm:items-center lg:justify-end">
           <a
-            href="https://dancer-fitness.com/#gform_wrapper_3"
+            href="https://app.dancer-fitness.com/#gform_wrapper_3"
             className="inline-flex h-14 items-center justify-center gap-3 bg-ink px-8 font-heading text-xs font-bold uppercase tracking-[0.22em] text-white transition-all hover:bg-black hover:gap-4 shadow-lg cursor-pointer"
           >
             <span>Subscribe for VIP Tips</span>
