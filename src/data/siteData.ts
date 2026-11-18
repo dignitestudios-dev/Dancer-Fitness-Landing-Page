@@ -96,8 +96,8 @@ export function getMembershipUrl(planId: string) {
 export const NAV_LINKS = [
   { label: 'Exercises', href: DF_LINKS.exercises, external: true, dfHref: DF_LINKS.exercises },
   { label: 'Training Plans', href: DF_LINKS.trainingPlans, external: true, dfHref: DF_LINKS.trainingPlans },
-  { label: 'On Demand', href: DF_LINKS.onDemand, external: true, dfHref: DF_LINKS.onDemand },
   { label: 'Membership', href: DF_LINKS.membership, external: true, dfHref: DF_LINKS.membership },
+  { label: 'On Demand', href: DF_LINKS.onDemand, external: true, dfHref: DF_LINKS.onDemand },
   { label: 'About', href: DF_LINKS.about, external: true, dfHref: DF_LINKS.about },
   { label: 'Contact', href: DF_LINKS.contact, external: true, dfHref: DF_LINKS.contact }
 ];
